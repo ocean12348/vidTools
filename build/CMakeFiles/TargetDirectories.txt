@@ -1,0 +1,3 @@
+C:/Users/ocean/Documents/GitHub/vidTools/build/CMakeFiles/vidtool.dir
+C:/Users/ocean/Documents/GitHub/vidTools/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ocean/Documents/GitHub/vidTools/build/CMakeFiles/ZERO_CHECK.dir
